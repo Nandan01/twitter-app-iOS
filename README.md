@@ -2,8 +2,6 @@
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
-
 ## User Stories
 
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
