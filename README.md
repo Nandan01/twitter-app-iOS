@@ -2,6 +2,8 @@
 
 This is a basic twitter app to read your tweets.
 
+Time spent: 5 hours spent in total (Part 1)
+
 ## User Stories
 
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
