@@ -5,6 +5,8 @@ This iOS app uses twitter API.
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
+Time spent: 7 hours spent in total (Part 2)
+
 ## User Stories
 
 The following **required** functionality is completed:
